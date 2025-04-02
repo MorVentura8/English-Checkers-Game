@@ -50,7 +50,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
 <div>
    <h2> Game Over !</h2>   
 <img 
-    src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122600.png" 
+    src="img/Win Screen.png" 
     alt="Image Description"
     width="388" 
     height="375"

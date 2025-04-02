@@ -56,7 +56,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
     height="375"
     title="Game Board"
 />
-   <h3>Mor Win the Game !.</h3>    
+   <h3>Mor Win the Game !!!</h3>    
 <div/>
 
 ### :hammer_and_wrench: Languages and Tools :

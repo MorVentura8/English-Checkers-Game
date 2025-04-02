@@ -24,7 +24,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
 <div>
    <h2> Game Board !</h2>   
 <img 
-    src="https://github.com/yaakov-koby-israeli/English-Checkers-Game/blob/main/img/Screenshot%202025-02-19%20122240.png" 
+    src="img/Main board.png" 
     alt="Image Description"
     width="288" 
     height="275"

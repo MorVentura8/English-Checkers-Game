@@ -43,7 +43,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
     alt="Image Description"
     width="100" 
     height="100"
-    title="Not You'r Turn Error Screen"   
+    title="Not You're Turn Error Screen"   
 />   
 <div/>
  
@@ -56,7 +56,7 @@ Added a new User Interface to the same game logic from the English Checkers Cons
     height="375"
     title="Game Board"
 />
-   <h3>koby Win the Game !.</h3>    
+   <h3>Mor Win the Game !.</h3>    
 <div/>
 
 ### :hammer_and_wrench: Languages and Tools :
